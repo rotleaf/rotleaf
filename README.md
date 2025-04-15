@@ -5,12 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rotleaf&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rotleaf" />
 </div>
 
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rotleaf&theme=tokyonight)](https://git.io/streak-stats)
-  
-</div>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
